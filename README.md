@@ -1,2 +1,2 @@
 # CalcPy
-A simple python calculatorcal
+A simple python calculator
